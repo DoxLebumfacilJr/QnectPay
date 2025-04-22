@@ -34,16 +34,22 @@ QnectPay is a mobile application built with **Expo** and **React Native**. It fe
    cd QnectPay
    ```
 2. **Clone the Repository**:
+
+   ```bash
    npm install
+   ```
 
 3. **Start the Development Server**:
+   ```bash
    npx expo start
-
+   ```
 4. **Run on a Device or Emulator**:
    - Use the QR code in the terminal to open the app in Expo Go.
    - Or, run the app on an Android emulator or iOS simulator:
-     npm run android
-     npm run ios
+   ```bash
+    npm run android
+    npm run ios
+   ```
 
 ## Key Files
 
