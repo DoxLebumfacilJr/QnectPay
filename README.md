@@ -33,7 +33,7 @@ QnectPay is a mobile application built with **Expo** and **React Native**. It fe
    git clone <repository-url>
    cd QnectPay
    ```
-2. **Clone the Repository**:
+2. **Install dependencies**:
 
    ```bash
    npm install
