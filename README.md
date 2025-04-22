@@ -71,5 +71,3 @@ QnectPay is a mobile application built with **Expo** and **React Native**. It fe
 ## License
 
 This project is licensed under the MIT License.
-
-Save this content into your [README.md](http://_vscodecontentref_/1) file. Let me know if you need further assistance!
